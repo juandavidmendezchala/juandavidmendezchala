@@ -96,9 +96,3 @@
   <br/>
   <b>Note:</b> La estadistica es solo una medida y no refleja necesariamente todas mis habilidades en los distintos lenguajes.
 </details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
