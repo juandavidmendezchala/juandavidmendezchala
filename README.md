@@ -30,7 +30,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a>
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Estadisticas de David" src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidmendezchala&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Estadisticas de David" alt="Estadisticas de David" src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidmendezchala&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
