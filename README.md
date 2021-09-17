@@ -52,11 +52,12 @@
 ### 🧰 Frameworks y Librerias
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
 ### 🗄️ Bases de datos y almacenamiento en la nube
@@ -94,5 +95,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de David" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=juandavidmendezchala&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes que utiliza David" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandavidmendezchala&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
-  <b>Note:</b> La estadistica es solo una medida y no refleja necesariamente todas mis habilidades en los distintos lenguajes.
+  <b>Nota:</b> La estadistica es solo una medida y no refleja necesariamente todas mis habilidades en los distintos lenguajes.
 </details>
